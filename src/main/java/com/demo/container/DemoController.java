@@ -15,7 +15,7 @@ public class DemoController {
 	
 	@GetMapping("/get2")
 	public String demo2() {
-		return "This is the Sentence 2";
+		return "Hello Demo Project";
 	}
 
 }
